@@ -14,3 +14,5 @@ Files:
    - This program simulates a simple ATM interface allowing the user to perform basic operations such as checking account balance, withdrawing funds, depositing money, and exiting the system. It operates through a console-based interface with menu-driven options.
 
 All programs are written in core Java and focus on fundamental concepts such as conditionals, loops, arrays, and user input handling.
+
+![task1](https://github.com/user-attachments/assets/53f19cd7-67ed-48c9-b06f-1d17b8696cb2)
