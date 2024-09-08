@@ -16,3 +16,5 @@ Files:
 All programs are written in core Java and focus on fundamental concepts such as conditionals, loops, arrays, and user input handling.
 
 ![task1](https://github.com/user-attachments/assets/53f19cd7-67ed-48c9-b06f-1d17b8696cb2)
+
+![task2](https://github.com/user-attachments/assets/d920b118-6f9f-49dd-8c02-2cb2e589abb6)
